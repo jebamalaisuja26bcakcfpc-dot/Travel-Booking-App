@@ -1,5 +1,11 @@
 # ✈️ Travel Booking App UI
 
+Design Link:
+
+https://www.figma.com/design/E5n1pxAuh2hcqGFUa8biG7/Travel_Booking_App?t=MKVy2oCrkibjRUhz-0
+
+Prototype Link:
+
 https://www.figma.com/proto/E5n1pxAuh2hcqGFUa8biG7/Travel_Booking_App?node-id=0-58&t=3r8R0FCpP3Wmrpgv-1
 ## 📌 Project Overview
 This project is a Travel Booking App UI designed in Figma. It provides a simple and modern interface for users to search flights, view destinations, make payments, and complete bookings.
